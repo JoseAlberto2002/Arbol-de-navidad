@@ -1,0 +1,20 @@
+html,body{
+    background: #000;
+    margin: 0;
+    padding: 0;
+  }
+  #scenew{
+      position: relative;
+      margin: auto;
+      width: 500px;
+      text-align: center;
+  }
+  #scenew p{
+    color: rgb(0, 0, 0);
+    font-size: 4em;
+    margin: 10px 0 -40px 0;
+  }
+  .feliz{
+    background-color: red;
+    font-style: italic;
+  }
